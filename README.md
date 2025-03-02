@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Gaia!
+I'm a curious student of economics and data analysis and I would like to use this space to share my projects 🌱
 
 <!--
 **gaiaalb/gaiaalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
